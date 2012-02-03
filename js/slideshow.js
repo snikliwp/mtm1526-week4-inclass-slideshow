@@ -44,11 +44,9 @@ $(document).ready(function() {
 	buttons or a element
 	easiest way is put a click handler on each tab
 	one click handler use an a element <a href = '#tab-id
+	*/
 	
 	
-	
-	
-	/*
 	
 	
 	
